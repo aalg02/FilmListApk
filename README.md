@@ -1,6 +1,6 @@
 # FilmListApk
 
--Descarga desde aqui la apk de FilmList  y instalala en tu dispositivo android.
+-Descarga desde aqui la apk de FilmList  e instalala en tu dispositivo android.
 
 -En un futuro estará disponible en la PlayStore.
 
